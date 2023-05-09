@@ -22,4 +22,4 @@ samples, guidance on mobile development, and a full API reference.
 ![Homes](/screenshot/homes.jpg)
 ![Map](/screenshot/map.jpg)
 ![About](/screenshot/about.jpg)
-![Chat](/screenshot/chats.jpg)
+![Chat](/screenshot/chat.jpg)
